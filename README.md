@@ -2,7 +2,9 @@
 
 ## Description ##
 
-This project showcases an analysis of California housing data using the fetch_california_housing dataset from the scikit-learn library. The project includes exploratory data analysis, correlation visualization, and the creation of a linear regression model to predict the median house value based on features such as number of rooms, building age, and median income. The model was evaluated, and key variables influencing house prices were identified and interpreted.
+This project showcases an analysis of California housing data using the fetch_california_housing dataset from the scikit-learn library. The project includes exploratory data analysis, correlation visualization, and the creation of a linear regression model to predict the median house value based on features such as number of rooms, building age, and median income. The model was evaluated, and key variables influencing house prices were identified and interpreted.  
+
+The project was created for educational purposes as part of a portfolio.
 
 ## Utilities and Libraries Used ##
 
